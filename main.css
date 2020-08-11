@@ -1,0 +1,23 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+h3 {
+    color: blue;
+   padding-left: 1rem; 
+}
+
+p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.7rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+
+body {
+    outline: thick;
+    background-color: green;
+    background: url(crochare.jpeg);
+}
